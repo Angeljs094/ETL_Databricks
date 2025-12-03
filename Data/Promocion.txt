@@ -1,0 +1,17 @@
+Cod_Promocion|Promocion|Tipo|Categoria
+1|Sin descuento|Sin descuento|Sin descuento
+2|Descuento por volumen (entre 11 y 14)|Descuento por volumen|Distribuidor
+3|Descuento por volumen (entre 15 y 24)|Descuento por volumen|Distribuidor
+4|Descuento por volumen (entre 25 y 40)|Descuento por volumen|Distribuidor
+5|Descuento por volumen (entre 41 y 60)|Descuento por volumen|Distribuidor
+6|Descuento por volumen (más de 60)|Descuento por volumen|Distribuidor
+7|Liquidación de bicicleta de montaña, 100|Descatalogado|Distribuidor
+8|Casco deportivo, descuento: 2002|Descuento de temporada|Distribuidor
+9|Bicicleta de carretera: 650, oferta especial|Inventario excedente|Distribuidor
+10|Oferta de cubierta de montaña|Inventario excedente|Cliente
+11|Casco deportivo, descuento: 2003|Descuento de temporada|Distribuidor
+12|Oferta de cuadro de carretera GB|Inventario excedente|Distribuidor
+13|Promoción ‘Touring-3000’|Producto Nuevo|Distribuidor
+14|Promoción ‘Touring-1000’|Producto Nuevo|Distribuidor
+15|Venta de pedales a mitad de precio|Descuento de temporada|Cliente
+16|Liquidación de bicicleta de montaña, 500, plateada|Descatalogado|Distribuidor
